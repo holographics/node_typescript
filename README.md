@@ -12,7 +12,8 @@ git push origin branch_01
 
 npm install -g typescript
 vim greeter.ts
-
+tsc greeter.ts
+node greeter.js
 
 
 ````
