@@ -9,6 +9,12 @@ vim README.md
 git add README.md
 git commit -m "added README.md"
 git push origin branch_01
+
+npm install -g typescript
+vim greeter.ts
+
+
+
 ````
 #### …or create a new repository on the command line
 ````echo "# node_typescript" >> README.md
