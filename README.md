@@ -1,4 +1,15 @@
 
+#### 
+````
+git clone git@github.com:holographics/node_typescript.git
+cd node_typescript/
+git checkout -b branch_01
+echo "# node_typescript" >> README.md
+vim README.md
+git add README.md
+git commit -m "added README.md"
+git push origin branch_01
+````
 #### …or create a new repository on the command line
 ````echo "# node_typescript" >> README.md
 git init
