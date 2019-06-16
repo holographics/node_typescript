@@ -1,5 +1,5 @@
 
-#### 
+#### init repo:
 ````
 git clone git@github.com:holographics/node_typescript.git
 cd node_typescript/
